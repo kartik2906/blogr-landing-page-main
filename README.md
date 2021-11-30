@@ -1,6 +1,6 @@
 # Frontend Mentor - Blogr landing page
 
-## STILL TO TODO 
+##  TODO 
 - Mobile menu 
 - Hover state for buttons and links
 - padding and margins on buttons, paragraphs and links

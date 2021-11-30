@@ -1,5 +1,12 @@
 # Frontend Mentor - Blogr landing page
 
+## STILL TO TODO 
+- Mobile menu 
+- Hover state for buttons and links
+- padding and margins on buttons, paragraphs and links
+- Footer need to be completed properly
+- Moblile needs completing
+
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
